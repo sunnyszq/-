@@ -29,3 +29,7 @@ list.get(i);
 list.get(i).next = list.get(j);
 ```
 
+---
+
+获取**数组A[]的长度**的方法： **A.length;**   **数组长度没有括号！！！**
+
